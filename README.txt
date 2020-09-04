@@ -1,3 +1,9 @@
+Authors:
+Koushik Modugu
+Adithya V Ganesan
+Abhishek Deshmukh
+Manoj Kumar
+
 Our code base is spread across multiple files(4). 
 
 We have used the following pipelines for Data:
